@@ -2,6 +2,6 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: "/kza-desctop/",
-    assetsInclude: ["**/*.mov"],
+    base: "/kza-desktop/",
+    // assetsInclude: ["s**/*.mov"],
 });
