@@ -9,7 +9,7 @@ document.querySelector("#app").innerHTML = `
       <source src="${LOGO_3D_SAFARI}" type='video/mp4; codecs="hvc1"' />
       <source src="${LOGO_3D_CHROME}" type="video/webm" />
     </video>
-    <h1>Welcome to KZA website Desktop Version!</h1>
+    <h1>Welcome to Vite JS Template!</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
