@@ -1,8 +1,8 @@
 {
-    "homepage": "https://sergeymoryakov.github.io/kza-desktop/",
-    "name": "kza-desktop",
+    "homepage": "https://sergeymoryakov.github.io/template-vite-js/",
+    "name": "template-vite-js",
     "private": true,
-    "version": "0.0.1",
+    "version": "0.0.2",
     "type": "module",
     "scripts": {
         "dev": "vite",
